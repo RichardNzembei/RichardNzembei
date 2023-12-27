@@ -17,7 +17,7 @@ I'm a Computer Science student at Kabrak University passionate about software en
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [LinkedIn](https://www.linkedin.com/in/richard-reuben-ba84a5244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Portfolio/Blog](https://your-portfolio-url.com)
 
