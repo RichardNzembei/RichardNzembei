@@ -5,25 +5,21 @@ I'm a Computer Science student at Kabrak University passionate about software en
 ## About Me
 
 - 🎓 Studying Computer Science at Kabrak University.
-- 🌱 Currently learning Java and enhancing my software development skills.
+- 🌱 Currently learning[ Javascript, c  ] and enhancing my software development skills in problem solving.
 - 💼 Actively seeking opportunities in software engineering and data science.
 - 🤔 Exploring new technologies and always eager to learn.
 
 ## Skills
 
-- Programming Languages: Java, [Add more as needed].
-- Software Development: [Add relevant skills].
-- Data Science: [Add relevant skills].
+- Programming Languages: Javascript.
+- Software Development: 
+- Data Science:
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/richard-reuben-ba84a5244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Portfolio/Blog](https://your-portfolio-url.com)
+
+  tel no:0716899396
 
 Feel free to reach out if you share similar interests or if you have any exciting projects or opportunities! 🚀
 
-<!---
-RichardNzembei/RichardNzembei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
