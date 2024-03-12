@@ -21,7 +21,7 @@ I'm a Computer Science student at Kabrak University passionate about software en
 
 You can find me on various platforms:
 
-- [![LinkedIn](images/linkedin.png)](www.linkedin.com/in/
+- [(images/linkedin.png)](www.linkedin.com/in/
 richard-reuben9
 
 )
