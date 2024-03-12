@@ -15,11 +15,18 @@ I'm a Computer Science student at Kabrak University passionate about software en
 - Software Development: 
 - Data Science:
 
-## Connect with Me
+## Connect with me 🌐
 
-- [LinkedIn](https://www.linkedin.com/in/richard-reuben-ba84a5244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-  TEL NO:0716899396
+
+You can find me on various platforms:
+
+- [![Twitter](twitter.png)](https://twitter.com/your_twitter_handle)
+- [![LinkedIn](linkedin.png)](www.linkedin.com/in/
+richard-reuben9
+
+)
+- [![GitHub](github.png)](https://github.com/your_username))
 
 Feel free to reach out if you share similar interests or if you have any exciting projects or opportunities! 🚀
 
