@@ -20,4 +20,4 @@ I'm a Computer Science student at Kabrak University passionate about software en
 <a href="https://linkedin.com/in/Richard Reuben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Richard Reuben" height="30" width="40" /></a>
 <a href="https://www.instagram.com/reuben__rnzembei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reuben__rnzembei" height="30" width="40" /></a>
 </p>
-<a href="https://wa.me/qr/RMHGJN6PI6LHM1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://wa.me/254740934445" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
