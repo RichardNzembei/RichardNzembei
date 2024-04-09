@@ -11,7 +11,7 @@ I'm a Computer Science student at Kabrak University passionate about software en
 
 ## Skills
 
-- Programming Languages: Javascript.
+- Programming Languages: Javascript,node js,express js
 - Software Development: 
 - Data Science:
 <h3 align="left">Connect with me:</h3>
