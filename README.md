@@ -47,6 +47,10 @@ I'm a Computer Science student at Kabrak University passionate about software en
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
+  <a href="https://v3.vuejs.org/guide/introduction.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+</a>
+
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RichardNzembei&show_icons=true&locale=en&layout=compact" alt="RichardNzembei" /></p>
 
