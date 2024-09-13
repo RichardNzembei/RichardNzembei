@@ -1,19 +1,20 @@
 # Hello, I'm Richard Nzembei Reuben
 
-I'm a Computer Science student at Kabrak University passionate about software engineering and data science. 👨‍💻
+I'm a Computer Science student at Kabrak University passionate about software engineering. 👨‍💻
 
 ## About Me
 
 - 🎓 Studying Computer Science at Kabrak University.
-- 🌱 Currently learning[ Javascript, c  ] and enhancing my software development skills in problem solving.
-- 💼 Actively seeking opportunities in software engineering and data science.
+- 🌱 Currently learning[ Javascript(Vue Js), Node Js  ] and enhancing my software development skills in problem solving.
+- 💼 Actively seeking opportunities in software engineering and web development.
 - 🤔 Exploring new technologies and always eager to learn.
 
 ## Skills
 
-- Programming Languages: Javascript,node js,express js
+- Programming Languages: Javascript(Node Js,express Js,Vue Js)
 - Software Development: 
-- Data Science:
+- Web Development:(frontend and backend)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/oscar_the_kidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oscar_the_kidd" height="30" width="40" /></a>
