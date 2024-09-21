@@ -3,8 +3,8 @@
 
 <p>:technologist: I'm a 3rd year student in Computer Science at <a href="https://kabarak.ac.ke/">KABARAK UNIVERSITY</a> in Nakuru, Kenya.</p>
 <p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
-## ⚡ Real Facts
 
+## ⚡ Real Facts
 > **"Show reliability through metrics** like test coverage, code quality, and vulnerability tests."
 
 > **"Idealistic concepts work well in theory,** but practicality is key to achieving real-world success."
