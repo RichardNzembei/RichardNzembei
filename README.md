@@ -42,7 +42,7 @@ I'm always excited to **collaborate** and explore **new ideas**. 😊
 <a href="https://www.instagram.com/reuben__rnzembei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reuben__rnzembei" height="30" width="40" /></a>
 <a href="https://wa.me/254740934445" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23212627/saint" target="_blank">
-  <img src="https://stackoverflow.com/favicon.ico" alt="Stack Overflow" height="30" width="40" />
+  <img src="https://stackoverflow.com/favicon.ico" alt="Stack Overflow" height="40" width="40" />
 </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
