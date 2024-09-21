@@ -3,24 +3,34 @@
 
 <p>:technologist: I'm a french student in 3rd year in Computer Science at <a href="https://kabarak.ac.ke/">KABARAK UNIVERSITY</a> in Nakuru, Kenya.</p>
 <p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
-⚡ Real Facts:
-"Show reliability through metrics like test coverage, code quality, and vulnerability tests."
+## ⚡ Real Facts
 
-"Idealistic concepts work well in theory, but practicality is key to achieving real-world success."
+> **"Show reliability through metrics** like test coverage, code quality, and vulnerability tests."
 
-"Don't rely on one tool for everything—adapt to the problem at hand."
+> **"Idealistic concepts work well in theory,** but practicality is key to achieving real-world success."
 
-"Accelerate innovation by reducing effort in non-critical areas, but be mindful of long-term quality."
+- **"Don't rely on one tool for everything**—adapt to the problem at hand."
 
-"Value isn't in perfection, but in the ability to connect ideas and solutions."
+- **"Accelerate innovation by reducing effort** in non-critical areas, but be mindful of long-term quality."
 
-"Documentation is most appreciated by those who need it most—and when it's missing."
+- **"Value isn't in perfection,** but in the ability to connect ideas and solutions."
 
-"Everyone makes mistakes, but learning from them is what leads to growth."
+- **"Documentation is most appreciated** by those who need it most—and when it's missing."
 
-🛠 Skills
-Programming Languages: JavaScript (Node.js, Express.js, Vue.js)
-Web Development: Frontend and backend development, responsive design, and performance optimization
+- **"Everyone makes mistakes,** but learning from them is what leads to growth."
+
+
+## 🛠 Skills
+
+- **Programming Languages**:  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD94B?logo=javascript&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white)  
+  ![Express.js](https://img.shields.io/badge/-Express.js-404D59?logo=express&logoColor=white)  
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
+
+- **Web Development**:  
+  Frontend and backend development, responsive design, and performance optimization
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
