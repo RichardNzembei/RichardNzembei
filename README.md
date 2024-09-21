@@ -1,4 +1,4 @@
-# Hello, I'm Richard Nzembei Reuben
+👋 - Hi visitor
 
 I'm a Computer Science student at Kabrak University passionate about software engineering. 👨‍💻
 
