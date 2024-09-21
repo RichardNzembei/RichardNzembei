@@ -1,7 +1,7 @@
 <h1>👋 - Hi visitor</h1>
 <h3>I'm Richard Reuben !</h3>
 
-<p>:technologist: I'm a french student in 3rd year in Computer Science at <a href="https://kabarak.ac.ke/">KABARAK UNIVERSITY</a> in Nakuru, Kenya.</p>
+<p>:technologist: I'm a 3rd year student in Computer Science at <a href="https://kabarak.ac.ke/">KABARAK UNIVERSITY</a> in Nakuru, Kenya.</p>
 <p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
 ## ⚡ Real Facts
 
@@ -30,6 +30,10 @@
 
 - **Web Development**:  
   Frontend and backend development, responsive design, and performance optimization
+
+  Feel free to **clone, contribute**, or just take **inspiration** from my work!  
+I'm always excited to **collaborate** and explore **new ideas**. 😊
+
 
   
 <h3 align="left">Connect with me:</h3>
@@ -78,4 +82,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RichardNzembei&" alt="RichardNzembei" /></p>
 
-Feel free to clone, contribute, or just take inspiration from my work! I'm always excited to collaborate and explore new ideas. 😊
+
