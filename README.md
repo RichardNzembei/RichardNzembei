@@ -1,19 +1,26 @@
-👋 - Hi visitor
+<h1>👋 - Hi visitor</h1>
+<h3>I'm Richard Reuben !</h3>
 
-I'm a Computer Science student at Kabrak University passionate about software engineering. 👨‍💻
+<p>:technologist: I'm a french student in 3rd year in Computer Science at <a href="https://kabarak.ac.ke/">KABARAK UNIVERSITY</a> in Nakuru, Kenya.</p>
+<p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
+⚡ Real Facts:
+"Show reliability through metrics like test coverage, code quality, and vulnerability tests."
 
-## About Me
+"Idealistic concepts work well in theory, but practicality is key to achieving real-world success."
 
-- 🎓 Studying Computer Science at Kabrak University.
-- 🌱 Currently learning[ Javascript(Vue Js), Node Js  ] and enhancing my software development skills in problem solving.
-- 💼 Actively seeking opportunities in software engineering and web development.
-- 🤔 Exploring new technologies and always eager to learn.
+"Don't rely on one tool for everything—adapt to the problem at hand."
 
-## Skills
+"Accelerate innovation by reducing effort in non-critical areas, but be mindful of long-term quality."
 
-- Programming Languages: Javascript(Node Js,express Js,Vue Js)
-- Software Development: 
-- Web Development:(frontend and backend)
+"Value isn't in perfection, but in the ability to connect ideas and solutions."
+
+"Documentation is most appreciated by those who need it most—and when it's missing."
+
+"Everyone makes mistakes, but learning from them is what leads to growth."
+
+🛠 Skills
+Programming Languages: JavaScript (Node.js, Express.js, Vue.js)
+Web Development: Frontend and backend development, responsive design, and performance optimization
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,3 +68,4 @@ I'm a Computer Science student at Kabrak University passionate about software en
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RichardNzembei&" alt="RichardNzembei" /></p>
 
+Feel free to clone, contribute, or just take inspiration from my work! I'm always excited to collaborate and explore new ideas. 😊
