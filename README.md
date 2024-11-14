@@ -1,8 +1,8 @@
 <h1>👋 - Hi visitor</h1>
 <h3>I'm Richard Reuben !</h3>
 
-<p>:technologist: I'm a 3rd year student in Computer Science at <a href="https://kabarak.ac.ke/">KABARAK UNIVERSITY</a> in Nakuru, Kenya.</p>
-<p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
+<p>:technologist:Full-stack software engineer from Nairobi, Kenya 🌍 | Building innovative solutions @AgriLink-Africa-Startup and always exploring new technologies. Let’s connect and make a difference in tech!".</p>
+
 
 ## ⚡ Real Facts
 > **"Show reliability through metrics** like test coverage, code quality, and vulnerability tests."
