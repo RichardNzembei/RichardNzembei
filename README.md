@@ -71,9 +71,6 @@ I'm always excited to **collaborate** and explore **new ideas**. 😊
   <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" alt="Vuetify" width="30" height="30"/>
   </a>
-  <a href="https://vue-native.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/GeekyAnts/vue-native-core/master/docs/assets/logo.png" alt="Vue Native" width="30" height="30"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
   </a>
@@ -91,9 +88,6 @@ I'm always excited to **collaborate** and explore **new ideas**. 😊
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="30" height="30"/>
-  </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="Render" width="30" height="30"/>
   </a>
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="30" height="30"/>
