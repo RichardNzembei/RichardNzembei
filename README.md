@@ -46,7 +46,8 @@ I'm always excited to **collaborate** and explore **new ideas**. 😊
 </a>
 </p>
 <h3 align="left">Tools:</h3>
-<p align="left" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<p align="left" style="background-color: white !important; padding: 10px; border-radius: 5px;">
+
   <a href="https://v3.vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   </a>
