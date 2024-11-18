@@ -93,7 +93,7 @@ I'm always excited to **collaborate** and explore **new ideas**. 😊
     <img src="https://www.gstatic.com/devrel-devsite/prod/v48a27e1666d6b49f3cd07e087c5b4b66e4d9adf2dc633e29a6b3614b56289c05/firebase/images/touchicon-180.png" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets-global.website-files.com/5f1ae9b47bd2644939dc6785/5f1ae9b47bd2642048dc67d2_render-brand-icon.png" alt="Render" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/render-examples/static-html/main/.render/logo.png" alt="Render" width="40" height="40"/>
   </a>
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
@@ -102,6 +102,7 @@ I'm always excited to **collaborate** and explore **new ideas**. 😊
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RichardNzembei&show_icons=true&locale=en&layout=compact" alt="RichardNzembei" /></p>
 
