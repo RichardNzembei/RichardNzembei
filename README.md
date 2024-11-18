@@ -23,13 +23,13 @@
 ## 🛠 Skills
 
 - **Programming Languages**:  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD94B?logo=javascript&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/-Express.js-404D59?logo=express&logoColor=white)  
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
+ **Programming Languages**:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-EDD94B?logo=javascript&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?logo=express&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)  
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)  
 
-- **Web Development**:  
-  Frontend and backend development, responsive design, and performance optimization
 
   Feel free to **clone, contribute**, or just take **inspiration** from my work!  
 I'm always excited to **collaborate** and explore **new ideas**. 😊
@@ -45,39 +45,64 @@ I'm always excited to **collaborate** and explore **new ideas**. 😊
   <img align="center" src="https://stackoverflow.com/favicon.ico" alt="Stack Overflow" height="30" width="40" />
 </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="40" height="40"/>
-</a>
-
-
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://v3.vuejs.org/guide/introduction.html" target="_blank" rel="noreferrer">
+  <a href="https://v3.vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-</a>
-
+  </a>
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
+  </a>
+  <a href="https://ui.nuxtjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/90257133?s=200&v=4" alt="Nuxt UI" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" alt="Vuetify" width="40" height="40"/>
+  </a>
+  <a href="https://vue-native.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/GeekyAnts/vue-native-core/master/docs/assets/logo.png" alt="Vue Native" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v48a27e1666d6b49f3cd07e087c5b4b66e4d9adf2dc633e29a6b3614b56289c05/firebase/images/touchicon-180.png" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://assets-global.website-files.com/5f1ae9b47bd2644939dc6785/5f1ae9b47bd2642048dc67d2_render-brand-icon.png" alt="Render" width="40" height="40"/>
+  </a>
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
 </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RichardNzembei&show_icons=true&locale=en&layout=compact" alt="RichardNzembei" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardNzembei&show_icons=true&locale=en" alt="RichardNzembei" /></p>
