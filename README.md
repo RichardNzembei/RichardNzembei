@@ -23,7 +23,6 @@
 ## 🛠 Skills
 
 - **Programming Languages**:  
- **Programming Languages**:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD94B?logo=javascript&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/-Express.js-404D59?logo=express&logoColor=white)  
