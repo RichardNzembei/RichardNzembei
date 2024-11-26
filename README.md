@@ -44,7 +44,7 @@ I'm always excited to **collaborate** and explore **new ideas**. 😊
   <img align="center" src="https://stackoverflow.com/favicon.ico" alt="Stack Overflow" height="30" width="40" />
 </a>
 </p>
-<h3 align="left">Tools:</h3>
+## Tools
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,nodejs,express,tailwind,typescript,vuetify,docker,vscode,nextjs,github,vercel,firebase,gitlab,aws)](https://skillicons.dev)
 
 
