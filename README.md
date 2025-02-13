@@ -45,8 +45,9 @@ I'm always excited to **collaborate** and explore **new ideas**. 😊
 </a>
 </p>
 
-##  Tools
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,nodejs,express,tailwind,typescript,vuetify,docker,vscode,nextjs,github,vercel,firebase,gitlab,aws)](https://skillicons.dev)
+## Tools  
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,nodejs,express,tailwind,typescript,vuetify,docker,vscode,nextjs,github,vercel,firebase,gitlab,aws,nx,digitalocean,gcp,flutter,dart,androidstudio)](https://skillicons.dev)
+
 
 
 
