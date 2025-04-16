@@ -96,10 +96,7 @@ Feel free to **clone**, **contribute**, or draw **inspiration** from my work! I'
   <a href="https://linkedin.com/in/Richard Reuben" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/reuben__rnzembei" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/254740934445" target="_blank">
+  <a href="https://wa.me/254716899396" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/23212627/saint" target="_blank">
