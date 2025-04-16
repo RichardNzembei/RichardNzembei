@@ -58,9 +58,12 @@ I'm a **Full-stack Software Engineer** from Nairobi, Kenya 🌍, passionate abou
 ## 📚 Projects
 
 Here are some projects I'm proud of (stay tuned for updates!):
-- **[Project Name]**: A brief description of a project, its purpose, and tech stack.
-- **[Project Name]**: Another exciting project with its key features and technologies.
 
+- **[EXpensefly.iO](https://e-xpensefly-i-o.vercel.app/)**: A sleek finance manager designed to simplify budgeting and expense tracking. Built with Vue.js, Nuxt.js, and Tailwind CSS, it offers a user-friendly interface and real-time insights to help users stay on top of their finances.  
+  [View on GitHub](https://github.com/RichardNzembei/EXpensefly.iO)
+
+- **[ElevateYou](https://elevate-you-rho.vercel.app/)**: A personal growth platform to track progress in coding, fitness, finances, and more. Powered by Vue.js, TypeScript, and Firebase, it features dynamic dashboards and goal-setting tools to inspire self-improvement.  
+  [View on GitHub](https://github.com/RichardNzembei/ElevateYou)
 Explore my [GitHub repositories](https://github.com/RichardNzembei) for more!
 
 ---
