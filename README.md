@@ -64,6 +64,8 @@ Here are some projects I'm proud of (stay tuned for updates!):
 
 - **[ElevateYou](https://elevate-you-rho.vercel.app/)**: A personal growth platform to track progress in coding, fitness, finances, and more. Powered by Vue.js, TypeScript, and Firebase, it features dynamic dashboards and goal-setting tools to inspire self-improvement.  
   [View on GitHub](https://github.com/RichardNzembei/ElevateYou)
+
+  
 Explore my [GitHub repositories](https://github.com/RichardNzembei) for more!
 
 ---
