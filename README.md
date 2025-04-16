@@ -1,61 +1,104 @@
-<h1>👋 - Hi visitor</h1>
-<h3>I'm Richard Reuben !</h3>
+# 👋 Hi, I'm Richard Reuben!
 
-<p>:technologist:Full-stack software engineer from Nairobi, Kenya 🌍 .
-Let’s connect and make a difference in tech!".</p>
+I'm a **Full-stack Software Engineer** from Nairobi, Kenya 🌍, passionate about crafting reliable, scalable, and innovative tech solutions. I thrive on collaboration and turning ideas into reality. Let's connect and build something extraordinary!
 
+---
 
-## ⚡ Real Facts
-> **"Show reliability through metrics** like test coverage, code quality, and vulnerability tests."
+## 🚀 About Me
 
-> **"Idealistic concepts work well in theory,** but practicality is key to achieving real-world success."
+- **Location**: Nairobi, Kenya
+- **Profession**: Full-stack Software Engineer
+- **Mission**: Deliver impactful tech solutions with a focus on quality and practicality
+- **Motto**: "Connect ideas, deliver value, keep learning"
 
-- **"Don't rely on one tool for everything**—adapt to the problem at hand."
-
-- **"Accelerate innovation by reducing effort** in non-critical areas, but be mindful of long-term quality."
-
-- **"Value isn't in perfection,** but in the ability to connect ideas and solutions."
-
-- **"Documentation is most appreciated** by those who need it most—and when it's missing."
-
-- **"Everyone makes mistakes,** but learning from them is what leads to growth."
-
+---
 
 ## 🛠 Skills
 
-- **Programming Languages**:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-EDD94B?logo=javascript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-404D59?logo=express&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)  
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)  
+### Programming Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-EDD94B?logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
-  Feel free to **clone, contribute**, or just take **inspiration** from my work!  
-I'm always excited to **collaborate** and explore **new ideas**. 😊
+### Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 
+---
 
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Richard Reuben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Richard Reuben" height="30" width="40" /></a>
-<a href="https://www.instagram.com/reuben__rnzembei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reuben__rnzembei" height="30" width="40" /></a>
-<a href="https://wa.me/254740934445" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23212627/saint" target="_blank">
-  <img align="center" src="https://stackoverflow.com/favicon.ico" alt="Stack Overflow" height="30" width="40" />
-</a>
+## 💡 Core Principles
+
+- **Reliability**: Build trust with metrics like test coverage and code quality.
+- **Pragmatism**: Blend idealism with practical solutions for real-world impact.
+- **Adaptability**: Choose the right tool for each problem, not a one-size-fits-all.
+- **Efficiency**: Optimize non-critical tasks without sacrificing long-term quality.
+- **Value-Driven**: Create solutions that connect ideas and deliver impact.
+- **Documentation**: Write clear docs for those who rely on them.
+- **Growth**: Learn from mistakes to fuel continuous improvement.
+
+---
+
+## 📚 Projects
+
+Here are some projects I'm proud of (stay tuned for updates!):
+- **[Project Name]**: A brief description of a project, its purpose, and tech stack.
+- **[Project Name]**: Another exciting project with its key features and technologies.
+
+Explore my [GitHub repositories](https://github.com/RichardNzembei) for more!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RichardNzembei&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RichardNzembei&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichardNzembei&theme=radical" alt="GitHub Streak" />
 </p>
 
-## Tools  
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,nodejs,express,tailwind,typescript,vuetify,docker,vscode,github,vercel,firebase,gitlab,aws,nx,digitalocean,gcp,flutter,dart,androidstudio,expo)](https://skillicons.dev)
+---
 
+## 🤝 Let's Collaborate!
 
+Feel free to **clone**, **contribute**, or draw **inspiration** from my work! I'm always excited to explore **new ideas** and collaborate on innovative projects. 😊
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RichardNzembei&show_icons=true&locale=en&layout=compact" alt="RichardNzembei" /></p>
+## 📬 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardNzembei&show_icons=true&locale=en" alt="RichardNzembei" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RichardNzembei&" alt="RichardNzembei" /></p>
-
+<p align="center">
+  <a href="https://linkedin.com/in/Richard Reuben" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/reuben__rnzembei" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/254740934445" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/23212627/saint" target="_blank">
+    <img src="https://stackoverflow.com/favicon.ico" alt="Stack Overflow" height="30" width="40" />
+  </a>
+</p>
 
