@@ -1,7 +1,8 @@
 <h1>👋 - Hi visitor</h1>
 <h3>I'm Richard Reuben !</h3>
 
-<p>:technologist:Full-stack software engineer from Nairobi, Kenya 🌍 | Building innovative solutions @SwiftLink-Startup and always exploring new technologies. Let’s connect and make a difference in tech!".</p>
+<p>:technologist:Full-stack software engineer from Nairobi, Kenya 🌍 .
+Let’s connect and make a difference in tech!".</p>
 
 
 ## ⚡ Real Facts
