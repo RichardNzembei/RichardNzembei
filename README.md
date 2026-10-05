@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rnzembei.vercel.app/" target="_blank">
+  <a href="https://lumisstudios.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nzembei-reuben" target="_blank">
